@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+
+# Local Kaggle data files used to train the model
+matches.csv
+deliveries.csv
+most_runs_average_strikerate.csv
+teams.csv
+teamwise_home_and_away.csv
+Players*
